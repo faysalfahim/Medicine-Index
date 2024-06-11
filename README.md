@@ -7,6 +7,6 @@ go to backend then go to crud directory and type "python manage.py runserver" in
 #To Run Frontend:
 go to frontend directory and type npm install to install all the node modules and type "npm start" to start the frontend.
 
-A user can only view medicine details and admin can login to add new medicine details and update and delete medicines that are already existed.
+A user can only view medicine details and admin can login to add new medicine details and update and delete medicines that are already existed. It is just a simple crud operation and basic frontend.
 
 Credentials for admin: username: admin password: admin1234
